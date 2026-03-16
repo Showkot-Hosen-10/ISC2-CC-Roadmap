@@ -14,7 +14,7 @@ I started with the formal training to understand the 5 Domains:
 4. Network Security
 5. Security Operations
 
-**Resource:** [Coursera ISC2 CC Specialization](https://www.coursera.org/specializations/isc2-certified-in-cybersecurity)
+**Resource:** [Coursera ISC2 CC Specialization]([https://www.coursera.org/specializations/isc2-certified-in-cybersecurity](https://www.coursera.org/specializations/certified-in-cybersecurity))
 
 ## 📌 Step 3: Intensive Revision (7-Day Sprint)
 This is where I solidified my knowledge. I used the following:

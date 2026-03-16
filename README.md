@@ -26,7 +26,7 @@ This is where I solidified my knowledge. I used the following:
 
 ## 📌 Step 4: Community Recommendations (Highly Rated)
 While I focused on the resources above, many successful candidates highly recommend **Prabh Nair**. His "Coffee Shots" and domain reviews are legendary for developing the "Managerial Mindset" needed for ISC2 exams.
-- **Video Resource:** [Prabh Nair's ISC2 CC Playlist (YouTube)](https://www.youtube.com/playlist?list=PL0hT6tdO910z7_Acq_960N9O_5-YST9-C)
+- **Video Resource:** [Prabh Nair's ISC2 CC Playlist (YouTube)](https://youtube.com/playlist?list=PL0hT6hgexlYw-k6GxQf_DIAPdc96T2MP-&si=D8H0Q26KCLocwKgD)
 
 ## 📌 Step 5: Final Practice Tests
 Before the real deal, I tested my speed and logic here:

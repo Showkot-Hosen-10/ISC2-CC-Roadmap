@@ -2,7 +2,7 @@
 
 This repository contains the roadmap, resources, and strategy I used to prepare for the exam, specifically tailored for beginners.
 
-![ISC2 CC Roadmap](CC_roadmap.png)
+![ISC2 CC Roadmap](CC_Roadmap.png)
 
 ## 📌 Step 1: Registration (Free Exam)
 ISC2 is offering the CC exam for free as part of their "One Million Certified in Cybersecurity" initiative.

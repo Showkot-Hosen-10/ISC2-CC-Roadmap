@@ -1,6 +1,23 @@
 # ISC2 Certified in Cybersecurity (CC) - Preparation Roadmap 🚀
 
-Alhamdulillah, I passed the ISC2 CC exam! This repository contains the roadmap, resources, and strategy I used to prepare for the exam, specifically tailored for beginners.
+This repository contains the roadmap, resources, and strategy I used to prepare for the exam, specifically tailored for beginners.
+
+## 🎯 The Preparation Gold Mine
+
+To crack the CC exam, you don't need "leaked" files; you need the right **strategy**. I have curated the most effective, official, and community-verified resources below:
+
+### 📑 Phase 1: The Official Foundation
+* **[The Official CC Exam Outline](https://www.isc2.org/-/media/Project/ISC2/Main/PDF/Exam-Outlines/CC-Exam-Outline.pdf)** - *The "Map" of the exam. If it's not here, it's not on the test!*
+* **[ISC2 Official Candidate Guide](https://www.isc2.org/certified-in-cybersecurity/candidate-guide)** - *Everything you need to know about the exam day rules and registration.*
+
+### 🧠 Phase 2: Intensive Learning (Free)
+* **[Official ISC2 Self-Paced Training](https://www.isc2.org/1mcc)** - *Get the official modules directly from the source.*
+* **[Coursera CC Specialization](https://www.coursera.org/specializations/isc2-certified-in-cybersecurity)** - *Best for visual learners and structured study.*
+
+### 🛠️ Phase 3: The "Secret Sauce" (Community Resources)
+> "These are the notes and practice sets that helped me translate theory into exam success."
+* **[Cyberfascinate Study Notes](https://github.com/cyberfascinate/ISC2-CC-Study-Material)** - *Highly recommended for the 7-day sprint!*
+* **[CertPreps Practice Simulator](https://certpreps.com/exams/cc/)** - *The closest feel to the real exam logic.*
 
 ## 📌 Step 1: Registration (Free Exam)
 ISC2 is offering the CC exam for free as part of their "One Million Certified in Cybersecurity" initiative.

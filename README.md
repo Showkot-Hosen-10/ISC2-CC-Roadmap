@@ -18,7 +18,7 @@ I started with the formal training to understand the 5 Domains:
 
 ## 📌 Step 3: Intensive Revision (7-Day Sprint)
 This is where I solidified my knowledge. I used the following:
-- **Main Resource:** [Cyberfascinate GitHub Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material)
+- **Main Resource:** Cyberfascinate GitHub Material
 - **Strategy:** I read the PDFs **3 times** to ensure the concepts were etched in my mind.
 - **AI Integration:** For every practice question I got wrong, I asked Gemini/GPT to explain the "Why" behind the correct answer. Understanding the logic is key!
 

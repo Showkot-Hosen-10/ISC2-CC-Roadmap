@@ -33,4 +33,4 @@ Before the real deal, I tested my speed and logic here:
 
 ## 🤝 Connect with Me
 If you have questions about the process or the exam experience, feel free to reach out!
-- **LinkedIn:** [Click Here](www.linkedin.com/in/showkot-hosen10)
+- **LinkedIn:** [Click Here](https://www.linkedin.com/in/showkot-hosen10/)

@@ -4,9 +4,9 @@ This repository contains the roadmap, resources, and strategy I used to prepare 
 
 ![ISC2 CC Roadmap](CC_Roadmap.png)
 
-## 📌 Step 1: Registration (Free Exam)
-ISC2 is offering the CC exam for free as part of their "One Million Certified in Cybersecurity" initiative.
-- [Register as an ISC2 Candidate here](https://www.isc2.org/1mcc)
+## 📌 Step 1: Registration
+ISC2 closed new enrolments in its free "One Million Certified in Cybersecurity" program on 20 May 2026. If you already have an unexpired exam code from the program, ISC2 says you must use it to schedule and take the exam by 31 December 2026.
+- [ISC2 program page](https://www.isc2.org/landing/1mcc)
 
 ## 📌 Step 2: Core Learning
 I started with the formal training to understand the 5 Domains:
@@ -31,6 +31,7 @@ While I focused on the resources above, many successful candidates highly recomm
 ## 📌 Step 5: Final Practice Tests
 Before the real deal, I tested my speed and logic here:
 - [CertPreps Practice Exams](https://certpreps.com/exams/cc/?register=success)
+- [ExamCrest CC Sample Questions](https://examcrest.com/exam/isc2-cc/free-questions?utm_source=github&utm_campaign=showkot-cc) (free, no signup; full mock tests are paid)
 
 ## 📝 Exam Day Tips (Dhaka Center Experience)
 - **Location:** Mentors', Dhanmondi, Dhaka.
